@@ -6,6 +6,6 @@ Queries were written to retrieve data and views were created which will be analy
 on Portfolio project 2 using tableau. 
 
 
-The link for the datasets
+The link for the full dataset
 
 https://ourworldindata.org/covid-deaths
