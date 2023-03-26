@@ -1,4 +1,4 @@
-# Data Management with SQL
+### Data Management with SQL
 
 The repository holds a Portfolio project
 On COVID DATA(2020-June 2022) using SQL.
